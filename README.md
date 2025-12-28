@@ -1,8 +1,9 @@
 # Amazon-Sales-Dashboard
 # 📊 Amazon Sales Dashboard | Excel Project
 
-[Dashboard Preview](<img width="1872" height="840" alt="Amazon sales dashboard" src="https://github.com/user-attachments/assets/51353e18-48fe-4edc-82ec-45cd4c643935" />)
+## 📷 Dashboard Preview
 
+![Amazon Sales Dashboard](https://github.com/user-attachments/assets/51353e18-48fe-4edc-82ec-45cd4c643935)
 
 ## 📌 Project Overview
 This Excel-based **Amazon Sales Dashboard** provides a comprehensive analysis of sales performance to help business users, analysts, and decision-makers understand revenue trends, profitability, product performance, and regional insights.
