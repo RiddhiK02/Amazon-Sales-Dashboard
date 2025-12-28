@@ -1,7 +1,7 @@
 # Amazon-Sales-Dashboard
 # 📊 Amazon Sales Dashboard | Excel Project
 
-![Dashboard Preview](<img width="1872" height="840" alt="Amazon sales dashboard" src="https://github.com/user-attachments/assets/51353e18-48fe-4edc-82ec-45cd4c643935" />)
+[Dashboard Preview](<img width="1872" height="840" alt="Amazon sales dashboard" src="https://github.com/user-attachments/assets/51353e18-48fe-4edc-82ec-45cd4c643935" />)
 
 
 ## 📌 Project Overview
@@ -100,8 +100,8 @@ The dashboard consolidates key sales metrics into a single-page executive dashbo
 ---
 
 ## 📷 Dashboard Preview
-![Main Dashboard](https://github.com/yourusername/your-repo/blob/main/Amazon%20Sales%20Dashboard.xlsx)
-![About Page](<img width="1823" height="809" alt="About" src="https://github.com/user-attachments/assets/e202c8ed-5e42-4ed4-860f-bf6ad5c70190" />)
+[Main Dashboard](https://github.com/yourusername/your-repo/blob/main/Amazon%20Sales%20Dashboard.xlsx)
+[About Page](<img width="1823" height="809" alt="About" src="https://github.com/user-attachments/assets/e202c8ed-5e42-4ed4-860f-bf6ad5c70190" />)
 
 ---
 
