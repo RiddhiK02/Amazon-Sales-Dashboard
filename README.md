@@ -121,7 +121,9 @@ This dashboard empowers stakeholders to:
 ---
 
 ## 👤 Author
-**RK**  
+**Riddhi K** 
+📧 khanvilkarr02@gmail.com
+
 Aspiring Data Analyst  
 Excel | Power BI | SQL | Data Visualization  
 
