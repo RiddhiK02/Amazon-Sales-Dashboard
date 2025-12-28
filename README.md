@@ -3,7 +3,8 @@
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Dashboard](https://github.com/user-attachments/assets/51353e18-48fe-4edc-82ec-45cd4c643935)
+![Amazon Sales Dashboard](<img width="1869" height="839" alt="image" src="https://github.com/user-attachments/assets/01838036-dd9f-4e96-b1cc-8ba4e549496c" />)
+
 
 ## 📌 Project Overview
 This Excel-based **Amazon Sales Dashboard** provides a comprehensive analysis of sales performance to help business users, analysts, and decision-makers understand revenue trends, profitability, product performance, and regional insights.
@@ -101,7 +102,8 @@ The dashboard consolidates key sales metrics into a single-page executive dashbo
 ---
 
 ## 📷 Dashboard Preview
-[Main Dashboard](https://github.com/yourusername/your-repo/blob/main/Amazon%20Sales%20Dashboard.xlsx)
+[Main Dashboard](<img width="1869" height="839" alt="image" src="https://github.com/user-attachments/assets/5ce97de1-adc2-43f1-a4e3-0f9afd2c13c7" />)
+
 [About Page](<img width="1823" height="809" alt="About" src="https://github.com/user-attachments/assets/e202c8ed-5e42-4ed4-860f-bf6ad5c70190" />)
 
 ---
