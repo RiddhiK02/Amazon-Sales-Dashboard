@@ -1,15 +1,13 @@
 # Amazon-Sales-Dashboard
 # 📊 Amazon Sales Dashboard | Excel Project
 
-## 📷 Dashboard Preview
-
-![Amazon Sales Dashboard](https://github.com/user-attachments/assets/5ce97de1-adc2-43f1-a4e3-0f9afd2c13c7)
-
-
 ## 📌 Project Overview
 This Excel-based **Amazon Sales Dashboard** provides a comprehensive analysis of sales performance to help business users, analysts, and decision-makers understand revenue trends, profitability, product performance, and regional insights.
 
 The dashboard consolidates key sales metrics into a single-page executive dashboard, supported by an About / Purpose page, enabling **quick insights and data-driven decision-making**.
+
+
+![Amazon Sales Dashboard](https://github.com/user-attachments/assets/5ce97de1-adc2-43f1-a4e3-0f9afd2c13c7)
 
 ---
 
@@ -122,6 +120,7 @@ This dashboard empowers stakeholders to:
 
 ## 👤 Author
 **Riddhi K** 
+
 📧 khanvilkarr02@gmail.com
 
 Aspiring Data Analyst  
