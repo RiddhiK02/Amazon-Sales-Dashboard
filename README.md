@@ -3,7 +3,7 @@
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Dashboard](<img width="1869" height="839" alt="image" src="https://github.com/user-attachments/assets/01838036-dd9f-4e96-b1cc-8ba4e549496c" />)
+![Amazon Sales Dashboard](https://github.com/user-attachments/assets/5ce97de1-adc2-43f1-a4e3-0f9afd2c13c7)
 
 
 ## 📌 Project Overview
@@ -102,9 +102,12 @@ The dashboard consolidates key sales metrics into a single-page executive dashbo
 ---
 
 ## 📷 Dashboard Preview
-[Main Dashboard](<img width="1869" height="839" alt="image" src="https://github.com/user-attachments/assets/5ce97de1-adc2-43f1-a4e3-0f9afd2c13c7" />)
 
-[About Page](<img width="1823" height="809" alt="About" src="https://github.com/user-attachments/assets/e202c8ed-5e42-4ed4-860f-bf6ad5c70190" />)
+### 🔹 Main Dashboard
+![Main Dashboard](https://github.com/user-attachments/assets/5ce97de1-adc2-43f1-a4e3-0f9afd2c13c7)
+
+### 🔹 About Page
+![About Page](https://github.com/user-attachments/assets/e202c8ed-5e42-4ed4-860f-bf6ad5c70190)
 
 ---
 
